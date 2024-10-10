@@ -6,14 +6,14 @@
 
 ---
 ## 🚀 **Enlace ** 💻
-**Enlace del video**: https://youtu.be/NHKQD4Mj49o
+**Enlace del video**: 
 <p align="center">
   <img src="https://i.pinimg.com/originals/11/44/7f/11447fc83ca8e179bbf199028daace43.gif" alt="Animación del menú" width="400"/>
 </p>
 
 ---
 ## 🚀 **Tecnologías Utilizadas** 💻
-- **Lenguaje**: Kotlin y APIs 🧑‍💻
+- **Lenguaje**: Kotlin y APIs (mockapi)🧑‍💻
 - **Diseño de interfaces**: XML 🎨
 - **Librerías**: Android SDK.
 
